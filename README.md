@@ -12,7 +12,7 @@
 
 ###基础数据结构
 
-待更新
+- [redis字符串](structure/redis_string.md)
 
 
 
