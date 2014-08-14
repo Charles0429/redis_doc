@@ -15,6 +15,7 @@
 - [redis字符串](structure/redis_string.md)
 - [redis双链表](structure/redis_doublelinklist.md)
 - [redis字典](structure/redis_dict.md)
+- [redis跳跃表](structure/redis_skiplist.md)
 
 
 
