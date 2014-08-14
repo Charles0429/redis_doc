@@ -16,6 +16,7 @@
 - [redis双链表](structure/redis_doublelinklist.md)
 - [redis字典](structure/redis_dict.md)
 - [redis跳跃表](structure/redis_skiplist.md)
+- [redis整数集合](structure/redis_intset.md)
 
 
 
